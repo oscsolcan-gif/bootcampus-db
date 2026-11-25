@@ -1,0 +1,3 @@
+-- 02_cargar_datos.sql
+-- Carga de los datos desde los CSV de origen (ver data/README.md).
+-- Pendiente del equipo.

@@ -1,0 +1,3 @@
+-- 03_consultas_demo.sql
+-- Consultas de demostración para la presentación.
+-- Pendiente del equipo.

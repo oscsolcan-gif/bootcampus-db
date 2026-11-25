@@ -1,0 +1,3 @@
+-- 01_crear_tablas.sql
+-- Creación de las tablas, en el orden que marcan las claves foráneas.
+-- Pendiente del equipo.
