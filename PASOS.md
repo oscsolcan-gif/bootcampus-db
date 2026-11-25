@@ -24,7 +24,7 @@ git push
 Un commit por paso, con el mensaje en esa forma, y se actualiza esta bitácora.
 
 ## Pasos del ejercicio (se rellenan al hacerlos)
-9. [ ] Diagrama Entidad-Relación → `docs/`
+9. [x] Diagrama Entidad-Relación → `docs/er.md` y `docs/er.png` (propuesta para revisar entre todos; quien lo cambie actualiza las dos cosas)
 10. [ ] Modelo lógico → `docs/`
 11. [ ] `sql/01_crear_tablas.sql`
 12. [ ] `sql/02_cargar_datos.sql`
