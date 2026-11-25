@@ -25,7 +25,7 @@ Un commit por paso, con el mensaje en esa forma, y se actualiza esta bitácora.
 
 ## Pasos del ejercicio (se rellenan al hacerlos)
 9. [x] Diagrama Entidad-Relación → `docs/er.md` y `docs/er.png` (propuesta para revisar entre todos; quien lo cambie actualiza las dos cosas)
-10. [ ] Modelo lógico → `docs/`
+10. [x] Modelo lógico → `docs/logico.md` y `docs/logico.png` (propuesta para revisar entre todos; con las claves y las reglas que el diagrama no dibuja)
 11. [ ] `sql/01_crear_tablas.sql`
 12. [ ] `sql/02_cargar_datos.sql`
 13. [ ] `sql/03_consultas_demo.sql`
