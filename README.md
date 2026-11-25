@@ -15,14 +15,15 @@ Enunciado: [Proyecto_BBDD.md](https://github.com/Hector-Tello-The-bridge/taller-
 - [ ] Base de datos PostgreSQL funcional, con los datos cargados y consultable desde fuera
 - [ ] Presentación técnica con consultas de demo → `presentacion/`
 
-Fecha y lugar de entrega: `{A_CONFIRMAR}`.
+Fecha de entrega: viernes 27-11-2026 a las 09:00, según la hoja de ruta del equipo (el enunciado dice otra fecha, de otra edición). Confirmar en el campus `{A_CONFIRMAR}`. Lugar de entrega: `{A_CONFIRMAR}`.
 
 ## Estructura
 ```
 README.md
 .gitignore
 .env.example          plantilla de conexión, sin claves reales
-docs/                 diagramas E/R y modelo lógico
+docs/                 diagramas E/R y modelo lógico (dos notaciones cada uno)
+documentacion-grupo/  hoja de ruta y lista de progreso del equipo
 sql/                  scripts, en el orden en que se ejecutan
 data/                 de dónde salen los CSV (ver data/README.md)
 presentacion/         material de la presentación técnica
