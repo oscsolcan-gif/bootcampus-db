@@ -1,0 +1,26 @@
+# Claves y conexiones: nunca al repositorio
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Volcados y bases locales: pueden llevar datos y claves
+.pgpass
+*.dump
+*.backup
+*.sql.gz
+*.sqlite
+*.db
+
+# Los CSV de origen se descargan en local, no se suben (ver data/README.md)
+data/*.csv
+
+# Basura del sistema y del editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+node_modules/
+.vscode/
+.idea/
